@@ -2,3 +2,6 @@ ovo je prvi teks u git komitu!
 
 
 ovo je drugi commit sa promjenom!
+
+
+koje su promjene?
