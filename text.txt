@@ -1,0 +1,2 @@
+ovo je prvi teks u git komitu!
+
