@@ -6,5 +6,9 @@ ovo je drugi commit sa promjenom!
 
 koje su promjene?
 
+
 raimo promjene na grani master!, koje nebi trebale biti vidljive na grani granna1:
+
+
+ovo je promijena na grani grana1;
 
