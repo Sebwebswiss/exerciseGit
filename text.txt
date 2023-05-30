@@ -5,3 +5,4 @@ ovo je drugi commit sa promjenom!
 
 
 koje su promjene?
+ovo je promijena na grani grana1;
